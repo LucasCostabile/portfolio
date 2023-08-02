@@ -102,6 +102,7 @@ body{
 
 .apresentacao__imagem {
     width: 50%;
+    border-radius: 10px;
 }
 .rodape{
     color: var(--cor-primaria);
